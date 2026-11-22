@@ -1,0 +1,3 @@
+# Python dependencies for DiskFucker3000
+PySide6
+psutil
